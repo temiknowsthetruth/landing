@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 40px;
+    color: #437ef3;
+    font-weight: bolder;
+    margin: 0;
+}
+
+.start{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(19, 44, 82);
+    color: white;
+    padding: 24px;
+    gap: 10px;
+}
+
+.end{
+    display: flex;
+    flex-direction: column;
+    background-color: #cecaca;
+}
+

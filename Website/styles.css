@@ -82,6 +82,7 @@ ul{
     align-items: center;
     background-color: #cecaca;
     margin-top: 10px;
+    line-height: 1.5;
 }
 
 quote{
@@ -115,6 +116,7 @@ footer{
     align-items: center;
     padding-top: 20px;
     padding-bottom: 20px;
+    margin-bottom: -20px;
 }
 
 address{
